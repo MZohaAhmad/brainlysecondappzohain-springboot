@@ -1,0 +1,14 @@
+/Users/zoha/Desktop/SpringBootServer/src/main/java/com/secondbrain/model/User.java
+/Users/zoha/Desktop/SpringBootServer/src/main/java/com/secondbrain/dto/ContentRequest.java
+/Users/zoha/Desktop/SpringBootServer/src/main/java/com/secondbrain/SecondBrainApplication.java
+/Users/zoha/Desktop/SpringBootServer/src/main/java/com/secondbrain/repository/ContentRepository.java
+/Users/zoha/Desktop/SpringBootServer/src/main/java/com/secondbrain/config/SecurityConfig.java
+/Users/zoha/Desktop/SpringBootServer/src/main/java/com/secondbrain/service/JwtService.java
+/Users/zoha/Desktop/SpringBootServer/src/main/java/com/secondbrain/model/Content.java
+/Users/zoha/Desktop/SpringBootServer/src/main/java/com/secondbrain/service/ContentService.java
+/Users/zoha/Desktop/SpringBootServer/src/main/java/com/secondbrain/dto/RegisterRequest.java
+/Users/zoha/Desktop/SpringBootServer/src/main/java/com/secondbrain/dto/LoginRequest.java
+/Users/zoha/Desktop/SpringBootServer/src/main/java/com/secondbrain/service/AuthService.java
+/Users/zoha/Desktop/SpringBootServer/src/main/java/com/secondbrain/repository/UserRepository.java
+/Users/zoha/Desktop/SpringBootServer/src/main/java/com/secondbrain/controller/ContentController.java
+/Users/zoha/Desktop/SpringBootServer/src/main/java/com/secondbrain/controller/AuthController.java
